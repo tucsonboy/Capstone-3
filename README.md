@@ -1,5 +1,5 @@
 # Final Capstone 3
-In this Capstone the goal of the project is to create a model that can predict the stock price of amazon stock.
+In this Capstone the goal of the project is to create a model that can predict the stock price of amazon stock. [Capstone 3 Final Report](Capstone 3 Final Report.pdf) contains a summary of the project. 
 ## Data
 Data was gathered fro yahoo finnancial as well as the US department of treasury. The data was gathered, and cleaned.
 This can be found [capstone3_datawrangling](capstone3_datawrangling.ipynb)
